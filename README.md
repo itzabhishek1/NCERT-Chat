@@ -1,2 +1,2 @@
-# NCERT-Chat
- Created a chatbot capable of responding to inquiries from 11th and 12th-grade Chemistry textbooks.
+# Retrieval-Augmented-Generation-RAG-
+ Simple RAG using your own pdfs without any GPU!
